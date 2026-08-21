@@ -160,34 +160,6 @@ The project document specifies that failed authentication results in a failure m
 
 ---
 
-## 🔧 Password Management
-
-The system also supports password modification.
-
-The password editing process is:
-
-```text
-Enter Current Password
-          ↓
-   Verify Password
-          ↓
-   Enter New Password
-          ↓
- Confirm New Password
-          ↓
- New Password == Confirm?
-       ┌──┴──┐
-      YES    NO
-       │      │
-       ↓      ↓
- Save to    Keep Old
- EEPROM     Password
-```
-
-The new password is stored in EEPROM only when the new password and confirmation password match.
-
----
-
 ## 👆 Fingerprint Management
 
 The system supports fingerprint management through:
