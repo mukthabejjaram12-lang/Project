@@ -220,7 +220,6 @@ During enrollment, the fingerprint image is captured, converted into a character
 * **Motor Driver:** L293D
 * **Actuator:** DC Motor
 
-The software requirements listed in the project document are Embedded C, Keil-C compiler, and Flash Magic.
 ---
 
 ## ⭐ Key Features
@@ -266,7 +265,9 @@ Possible future improvements include:
 ---
 
 ## 👩‍💻 Author
+
 Muktha Bejjaram
+
 B.Tech – Electronics and Communication Engineering
 
 ---
