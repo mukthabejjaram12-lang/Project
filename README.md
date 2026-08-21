@@ -8,10 +8,6 @@ The **Secure Access Control System with Multi-Level Authentication** is an embed
 
 Access is granted only when all three authentication levels are successfully verified. The system is developed using the **LPC2148 ARM7 microcontroller** and integrates a keypad, LCD, EEPROM, fingerprint module, UART communication, and motor-based door mechanism.
 
-### 🖼️ Project Overview
-
-![Secure Access Control System](a_clean_infographic_readme_style_project_poster.png)
-
 ---
 
 ## 🎯 Objectives
@@ -25,6 +21,10 @@ Access is granted only when all three authentication levels are successfully ver
 * Allow authorized users to modify passwords and fingerprints.
 
 ---
+## 🧩 System Block Diagram
+
+<img width="975" height="311" alt="image" src="https://github.com/user-attachments/assets/738c33a0-0c75-4c71-b79a-51c86ebe8e49" />
+
 
 ## 🔑 Authentication Process
 
@@ -61,10 +61,6 @@ The system performs authentication in the following sequence:
 ```
 
 ---
-
-## 🧩 System Block Diagram
-
-![System Block Diagram](a_clean_infographic_readme_style_project_poster.png)
 
 ### Main Components
 
@@ -202,6 +198,40 @@ The system supports fingerprint management through:
 During enrollment, the fingerprint image is captured, converted into a character file, and stored as a template in the fingerprint module's flash library.
 
 ---
+## 📸 Project Demonstration
+
+## 1. Title
+
+<img width="811" height="262" alt="image" src="https://github.com/user-attachments/assets/26253c2e-89d3-40d6-ac04-643dade9bc4b" />
+
+## 2. Main Menu
+
+<img width="934" height="360" alt="image" src="https://github.com/user-attachments/assets/61b000fd-7e76-4a5d-8c6b-f14dc39487a6" />
+
+## 3. Enter UserID
+
+<img width="994" height="360" alt="image" src="https://github.com/user-attachments/assets/4c52a935-280d-45ca-bd24-bfc5f54e9340" />
+
+## 4. Password Verification
+
+<img width="1025" height="368" alt="image" src="https://github.com/user-attachments/assets/fc7e2765-59cf-4ea2-b343-4ade02a208ec" />
+
+## 5. Fingerprint Verification
+
+<img width="1058" height="547" alt="image" src="https://github.com/user-attachments/assets/9bc44acd-19d0-4e71-8ec1-9289071a3b50" />
+
+## 6. Access Granted(Door open)
+
+<img width="1077" height="608" alt="image" src="https://github.com/user-attachments/assets/0774eefb-6d23-4a10-99a7-273d53e1bed7" />
+
+## 7. Door Close
+
+<img width="1135" height="759" alt="image" src="https://github.com/user-attachments/assets/dc421947-5e55-4ab7-8d0b-e80260575c17" />
+
+## 8. Edit Menu
+
+<img width="953" height="334" alt="image" src="https://github.com/user-attachments/assets/63178d11-8f60-45f3-a781-8dc9945923e2" />
+
 
 ## 🛠️ Technologies Used
 
@@ -259,6 +289,12 @@ Possible future improvements include:
 * Adding mobile application integration.
 * Adding multiple user profiles and access levels.
 * Adding encrypted communication between modules.
+
+---
+
+## 👩‍💻 Author
+Muktha Bejjaram
+B.Tech – Electronics and Communication Engineering
 
 ---
 
