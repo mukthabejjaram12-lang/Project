@@ -77,8 +77,6 @@ The system performs authentication in the following sequence:
 | **Switch**                  | Used for system/menu operations                    |
 | **USB-to-UART Converter**   | Used for fingerprint module communication/testing  |
 
-These hardware requirements are specified in the project document.
-
 ---
 
 ## ⚙️ Working Principle
