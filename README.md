@@ -113,48 +113,6 @@ The **DC motor rotates forward to represent door opening**. Reverse rotation rep
 
 ---
 
-## 🔄 Authentication Flow
-
-```text
-        START
-          │
-          ↓
-   Initialize System
-          │
-          ↓
-      Enter User ID
-          │
-          ↓
-   User ID Accepted?
-      ┌───┴───┐
-     NO      YES
-      │        │
-      │        ↓
-      │   Enter Password
-      │        │
-      │        ↓
-      │  Password Match?
-      │     ┌──┴──┐
-      │    NO    YES
-      │     │      │
-      │     │      ↓
-      │     │ Fingerprint Scan
-      │     │      │
-      │     │      ↓
-      │     │ Fingerprint Match?
-      │     │    ┌──┴──┐
-      │     │   NO    YES
-      │     │    │      │
-      ↓     ↓    ↓      ↓
-    Retry  Retry Deny  GRANT
-                     │
-                     ↓
-                 Door Opens
-                     │
-                     ↓
-                 Door Closes
-```
-
 ## 👆 Fingerprint Management
 
 The system supports fingerprint management through:
