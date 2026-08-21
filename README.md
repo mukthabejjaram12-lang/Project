@@ -23,8 +23,9 @@ Access is granted only when all three authentication levels are successfully ver
 ---
 ## 🧩 System Block Diagram
 
-<img width="975" height="311" alt="image" src="https://github.com/user-attachments/assets/738c33a0-0c75-4c71-b79a-51c86ebe8e49" />
+<img width="1536" height="1024" alt="bloclk_dig" src="https://github.com/user-attachments/assets/8a85b714-95cb-4a7f-86d5-9ab0b9887a54" />
 
+---
 
 ## 🔑 Authentication Process
 
