@@ -154,10 +154,6 @@ The **DC motor rotates forward to represent door opening**. Reverse rotation rep
                  Door Closes
 ```
 
-The project document specifies that failed authentication results in a failure message on the LCD and the system returns to waiting for User ID input.
-
----
-
 ## 👆 Fingerprint Management
 
 The system supports fingerprint management through:
