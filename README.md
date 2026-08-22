@@ -23,7 +23,7 @@ Access is granted only when all three authentication levels are successfully ver
 ---
 ## 🧩 System Block Diagram
 
-![System Block Diagram](Images/blockdidagram.png)
+![System Block Diagram](Major_project/images/blockdidagram.png)
 
 
 
