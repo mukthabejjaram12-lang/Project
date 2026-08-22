@@ -23,7 +23,7 @@ Access is granted only when all three authentication levels are successfully ver
 ---
 ## 🧩 System Block Diagram
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6fabcb91-15d8-436f-b171-ebef8d0457ac" />
+https://chatgpt.com/s/m_6a896ef037148191a1e14ac67a981629
 
 
 ---
