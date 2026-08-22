@@ -23,7 +23,7 @@ Access is granted only when all three authentication levels are successfully ver
 ---
 ## 🧩 System Block Diagram
 
-![Uploading file_00000000ae848211a87578e5360f847c.png…]()
+![System Block Diagram](Images/blockdidagram.png)
 
 
 
