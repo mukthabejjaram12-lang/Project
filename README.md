@@ -23,7 +23,8 @@ Access is granted only when all three authentication levels are successfully ver
 ---
 ## 🧩 System Block Diagram
 
-<img width="1536" height="1024" alt="blockdigamar" src="https://github.com/user-attachments/assets/c7d99ce0-3db1-4c9e-a9ab-d5ef66d3b8ef" />
+<img width="1536" height="1024" alt="blockdig" src="https://github.com/user-attachments/assets/6f655a3c-2f47-4105-857b-a27bc0bfeaf4" />
+
 
 ---
 
